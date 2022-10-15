@@ -1,3 +1,10 @@
 body {
   background: #6199f7;
 }
+footer {
+  text-align: center;
+}
+h1,
+p {
+  text-align: center;
+}
