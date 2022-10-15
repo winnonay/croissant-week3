@@ -1,10 +1,17 @@
 body {
   background: #6199f7;
 }
-footer {
-  text-align: center;
-}
 h1,
 p {
   text-align: center;
+}
+footer {
+  text-align: center;
+}
+footer a {
+  margin: 0 10px;
+}
+img {
+  display: block;
+  max-width: 100%;
 }
